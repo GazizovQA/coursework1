@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (C:\Users\ASUS\Desktop\kursovaia\Arkanoid\SFMLTemplate\\x64\Debug\) содержит файлы, которые используются совместно с другим проектом (SFMLTemplate.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  arkanoid.cpp
+C:\Users\ASUS\Desktop\kursovaia\Arkanoid\SFMLTemplate\arkanoid.cpp(193,50): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+C:\Users\ASUS\Desktop\kursovaia\Arkanoid\SFMLTemplate\arkanoid.cpp(193,43): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+  SFMLTemplate.vcxproj -> C:\Users\ASUS\Desktop\kursovaia\Arkanoid\SFMLTemplate\x64\Debug\arcanoid.exe
